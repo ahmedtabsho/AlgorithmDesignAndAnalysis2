@@ -1,0 +1,8 @@
+K1,Deterjan,20,1000
+K2,Telefon,15,30000
+K3,Kablosuz Kulaklik,5,5000
+K4,Kagit Havlu,50,1000
+K5,Tereyagi,15,3000
+K6,Robot Supurge,100,20000
+K7,Bebek Bezi,40,1000
+K8,Laptop,25,17000
